@@ -1,9 +1,15 @@
 ## Hi there 👋
 
-<!--
-**G4brielTerto/G4brielTerto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=G4brielTerto&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G4brielTerto&layout=compact)
+
+Current work/study...
+<div>
+  
+</div>
+
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
