@@ -2,6 +2,7 @@
 
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=G4brielTerto&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G4brielTerto&layout=compact)
 
 Current work/study...
