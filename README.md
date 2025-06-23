@@ -1,6 +1,5 @@
 
-# Hello, I'm Gabriel Terto.
-A Back-end enjoyer!
+# Hello, I'm Gabriel Terto. A Back-end enjoyer!
 
 ##
 
