@@ -2,7 +2,7 @@
 # Hello, I'm Gabriel Terto. A Back-end enjoyer!
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=G4brielTerto&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G4brielTerto&layout=compact&theme=default)
 
 ##
 ### Current work/study...
